@@ -1,13 +1,11 @@
 #!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
+ HEAD
+ HEAD
 echo "ALX School is so cool!"
-=======
 echo "ALX school"
 >>>>>>> update_script
-=======
 update_script
 echo "ALX school"
 echo "ALX School is so cool!"
 master
->>>>>>> 04d12a4a85f2daf9ab9e6ad3aa1bbed665dd5a1e
+ 04d12a4a85f2daf9ab9e6ad3aa1bbed665dd5a1e
